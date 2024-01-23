@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../project/scratch/p200149/rosetta-results"
+		},
+		{
+			"path": "../../../../../../project/scratch/p200149/rosetta-cache"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Monokai Pro",
+		"workbench.iconTheme": "Monokai Pro Icons",
+		"terminal.integrated.enableMultiLinePasteWarning": false,
+		"explorer.confirmDragAndDrop": false,
+		"explorer.confirmDelete": false,
+		"typescript.tsserver.maxTsServerMemory": 4000,
+		"window.zoomLevel": 0
+	}
+}
